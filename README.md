@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey, What should my next post be about ?](https://dev.to/rushannotofficial/hey-what-should-my-next-post-be-about-4hgh)
+- [Coffee - A Dev's  Heaven](https://dev.to/rushannotofficial/coffee-a-dev-s-heaven-egb)
+- [The night owl's guide to 6 am](https://dev.to/rushannotofficial/the-night-owl-s-guide-to-6-am-14p7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
