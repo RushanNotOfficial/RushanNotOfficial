@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2021 - How it went for me](https://dev.to/rushannotofficial/hacktoberfest-2021-how-it-went-for-me-21cg)
 - [A dev new word - 
     Condensing](https://dev.to/rushannotofficial/a-dev-new-word-condensing-5hln)
 - [Hey, What should my next post be about ?](https://dev.to/rushannotofficial/hey-what-should-my-next-post-be-about-4hgh)
 - [Coffee - A Dev's  Heaven](https://dev.to/rushannotofficial/coffee-a-dev-s-heaven-egb)
-- [The night owl's guide to 6 am](https://dev.to/rushannotofficial/the-night-owl-s-guide-to-6-am-14p7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
