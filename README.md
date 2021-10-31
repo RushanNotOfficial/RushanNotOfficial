@@ -17,11 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is java code easier to hack than python code ?](https://dev.to/rushannotofficial/why-is-java-code-easier-to-hack-than-python-code--5big)
 - [Single Folder Git clone?](https://dev.to/rushannotofficial/single-folder-git-clone-21ld)
 - [Developer Profile Packages - Why and Why not](https://dev.to/rushannotofficial/developer-profile-packages-why-and-why-not-49lj)
 - [Hacktoberfest 2021 - How it went for me](https://dev.to/rushannotofficial/hacktoberfest-2021-how-it-went-for-me-21cg)
-- [A dev new word - 
-    Condensing](https://dev.to/rushannotofficial/a-dev-new-word-condensing-5hln)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
