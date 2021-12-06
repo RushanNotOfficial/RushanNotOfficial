@@ -17,10 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Freaking Zip](https://dev.to/rushannotofficial/freaking-zip-fle)
 - [Single Folder Git clone?](https://dev.to/rushannotofficial/single-folder-git-clone-21ld)
 - [Developer Profile Packages - Why and Why not](https://dev.to/rushannotofficial/developer-profile-packages-why-and-why-not-49lj)
 - [Hacktoberfest 2021 - How it went for me](https://dev.to/rushannotofficial/hacktoberfest-2021-how-it-went-for-me-21cg)
+- [A dev new word - 
+    Condensing](https://dev.to/rushannotofficial/a-dev-new-word-condensing-5hln)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
