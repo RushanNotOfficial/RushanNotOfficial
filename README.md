@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gimme a project and I shall do it](https://dev.to/rushannotofficial/gimme-a-project-and-i-shall-do-it-obp)
 - [Translation Helper](https://dev.to/rushannotofficial/translation-helper-679)
 - [Single Folder Git clone?](https://dev.to/rushannotofficial/single-folder-git-clone-21ld)
 - [Developer Profile Packages - Why and Why not](https://dev.to/rushannotofficial/developer-profile-packages-why-and-why-not-49lj)
-- [Hacktoberfest 2021 - How it went for me](https://dev.to/rushannotofficial/hacktoberfest-2021-how-it-went-for-me-21cg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
